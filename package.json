@@ -12,7 +12,7 @@
   "dependencies": {
     "react": "16.9.0",
     "react-native": "0.61.2",
-    "react-native-loudness": "file:react-native-loudness-1.0.7.tgz"
+    "react-native-loudness": "^2.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.6.2",
